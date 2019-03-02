@@ -1,0 +1,22 @@
+ div input[type=text]{
+    width: 15%;
+    padding: 12px 20px;
+    box-shadow: 3px 3px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+.addUser {
+    background-color: blue ;
+    color: white;
+    margin: 8px 0;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+#blueBunny{
+  background-color: lightgray;
+}
